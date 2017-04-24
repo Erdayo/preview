@@ -129,7 +129,7 @@ webpackJsonp([0], [, , , function (t, e, n) {
                     content: t.tmp,
                     time: t.getCurrentTime()
                 }), this.scrollBottom(), setTimeout(function () {
-                    t.$ajax("http://www.tuling123.com/openapi/api?key=42d602c9a21b46d4bfb5a4c7c486a70c&info=" + t.tmp).then(function (e) {
+                    t.$ajax("//www.tuling123.com/openapi/api?key=42d602c9a21b46d4bfb5a4c7c486a70c&info=" + t.tmp).then(function (e) {
                         t.currentData[t.sub].dialog.push({
                             isSelf: !1,
                             content: e.data.text,
