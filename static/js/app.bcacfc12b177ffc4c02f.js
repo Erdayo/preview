@@ -1,5 +1,5 @@
 webpackJsonp([0], [, , , function (t, e, n) {
-    t.exports = "./"+n.p + "static/img/1.ceef5b6.jpg"
+    t.exports = n.p + ".static/img/1.ceef5b6.jpg"
 }, , , , , , , , , function (t, e, n) {
     "use strict";
     var s = n(5), i = n(81), a = n(63), r = n.n(a), o = n(64), c = n.n(o), u = n(58), l = n.n(u), f = n(59), d = n.n(f), p = n(65), m = n.n(p), h = n(67), v = n.n(h), _ = n(62), w = n.n(_), g = n(4), C = n.n(g);
