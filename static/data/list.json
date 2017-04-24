@@ -3,7 +3,7 @@
   "info": [
     {
       "id": "01",
-      "src": "../../static/images/1.jpg",
+      "src": "./static/images/1.jpg",
       "url": "/dialog/01",
       "categoryName": "cate1",
       "nickName": "robot",
@@ -29,7 +29,7 @@
     },
     {
       "id": "02",
-      "src": "../../static/images/1.jpg",
+      "src": "./static/images/1.jpg",
       "url": "/dialog/02",
       "categoryName": "cate1",
       "nickName": "Mr.x",
@@ -50,7 +50,7 @@
     },
     {
       "id": "03",
-      "src": "../../static/images/1.jpg",
+      "src": "./static/images/1.jpg",
       "url": "/dialog/03",
       "categoryName": "cate2",
       "nickName": "Mr.q",
